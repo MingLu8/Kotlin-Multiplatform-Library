@@ -1,0 +1,16 @@
+PODS:
+  - spirometryAnalyzer (1.0)
+
+DEPENDENCIES:
+  - spirometryAnalyzer (from `./libs`)
+
+EXTERNAL SOURCES:
+  spirometryAnalyzer:
+    :path: "./libs"
+
+SPEC CHECKSUMS:
+  spirometryAnalyzer: 137310f553db490e5f132b4534812e25d309716f
+
+PODFILE CHECKSUM: e4ad247c965a49d38844b33fa48094a48274efd6
+
+COCOAPODS: 1.11.3

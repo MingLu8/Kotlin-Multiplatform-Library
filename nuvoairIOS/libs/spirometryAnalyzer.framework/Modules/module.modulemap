@@ -1,0 +1,6 @@
+framework module spirometryAnalyzer {
+    umbrella header "spirometryAnalyzer.h"
+
+    export *
+    module * { export * }
+}
